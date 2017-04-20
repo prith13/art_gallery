@@ -1,9 +1,4 @@
 
-/*make a DIV with position absolute/fixed and centered.
-On click get the URL of image and put this inside the new DIV in a img tag.
-Finally Add a fadeIn/Out to the new DIV for the effect. ==> stackoverflow
-*/
-
 $(document).ready(function(){
 
   $("img").on("click", function() {
